@@ -2,7 +2,7 @@
   "name": "@felipemenezesdm/general-maven-library-template",
   "version": "1.0.0",
   "description": "Modelo padrão para criação de bibliotecas TypeScript.",
-  "main": "./src/app.js",
+  "main": "./src/app.ts",
   "scripts": {
     "dev": "ts-node-dev -r dotenv/config --respawn --transpile-only src/app.ts"
   },
